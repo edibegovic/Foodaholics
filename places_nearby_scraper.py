@@ -3,7 +3,7 @@ import requests
 import json
 import pandas as pd
 
-api_key = "KEY GOES HERE :)"
+api_key = "AIzaSyB8xt1v6cCoeP7WBYnzb1MzndU9GGxCPw0"
 base_url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?"
 
 def get_parsed_response(url):
