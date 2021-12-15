@@ -1,4 +1,4 @@
-# Foodaholics: project files
+# Foodaholics
 Data in the Wild: Wrangling and Visualising Data @ ITU 2021 
 
 
